@@ -13,7 +13,7 @@ Additionally, measure the AUC-ROC metric and compare it with the F1.
 
 <img width="408" alt="image" src="https://github.com/nhayenquynh/Customer-Churn-Rate-for-Beta-Bank/assets/125513684/bac63e0b-e74f-437d-bd91-fde5c7ae515c">
 
-#of customers exited the bank
+    #of customers exited the bank
 
 # Instructions: 
 1. Download and prepare the data. Explain the procedure.
